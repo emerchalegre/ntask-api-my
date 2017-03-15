@@ -1,0 +1,4 @@
+node_modules/
+logs/
+ntask_test.sqlite
+ntask.sqlite
